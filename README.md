@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi My Friends 👋
 
+
+🔭 I’m currently working on IT Student at Clarusway Bootcamp
+👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions
+🤝 I’m looking for help with AWS and DevOps
+🌱 I’m currently learning AWS Services and DevOps Tools
+💬 Ask me about anything :))
+⚡ Fun fact I want to learn everything about my path.
 
 
 ## 🌐 Socials:
