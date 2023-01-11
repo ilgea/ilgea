@@ -1,5 +1,8 @@
 ### Hi My Friends 👋
 
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
 🔭 I’m currently working on IT Student at Clarusway Bootcamp
 👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions
