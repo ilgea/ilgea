@@ -1,7 +1,8 @@
 ### Hi My Friends 👋
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-/div>
+</div>
+  
 <div align="center">
 <img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="500" height="500" />
 </div>
