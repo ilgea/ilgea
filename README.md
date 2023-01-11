@@ -4,7 +4,7 @@
 </div>
   
 <div align="center">
-<img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="250" height="250" />
+<img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="300" height="300" />
 </div>
 
 🔭 I’m currently working on IT Student at Clarusway Bootcamp
