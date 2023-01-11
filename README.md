@@ -1,9 +1,5 @@
 ### Hi My Friends 👋
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
-  
-<div align="center">
 <img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="300" height="300" />
 </div>
 
