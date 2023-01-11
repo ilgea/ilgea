@@ -4,9 +4,9 @@
 </div>
 
 🔭 I’m currently working on IT Student at Clarusway Bootcamp<br></br>
-👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions
-🌱 I’m currently learning AWS Services and DevOps Tools
-💬 Ask me about anything :))
+👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions<br></br>
+🌱 I’m currently learning AWS Services and DevOps Tools<br></br>
+💬 Ask me about anything :))<br></br>
 ⚡ Fun fact I want to learn everything about my path.
 
 
