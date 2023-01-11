@@ -3,7 +3,7 @@
 <img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="300" height="300" />
 </div>
 
-🔭 I’m currently working on IT Student at Clarusway Bootcamp
+🔭 I’m currently working on IT Student at Clarusway Bootcamp<br></br>
 👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions
 🌱 I’m currently learning AWS Services and DevOps Tools
 💬 Ask me about anything :))
