@@ -2,6 +2,9 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Zübeyir 👋 I'm a 🚀 Cloud & DevOps Engineer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 🔭 I’m currently working on IT Student at Clarusway Bootcamp
 👯 I’m looking to collaborate on AWS, DevOps, Cloud Solutions
