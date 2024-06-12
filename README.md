@@ -1,9 +1,5 @@
 ### Hi My Friends 👋
 
-🌱 I am on path in of an amazing cloud adventure.<br></br>
-💬 Ask me about anything :))<br></br>
-⚡ Fun fact I want to learn everything about my path.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zubeyirozkaya/) 
