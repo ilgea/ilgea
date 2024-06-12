@@ -1,8 +1,6 @@
 ### Hi My Friend, I'm Zübeyir. 👋
 
-
-[  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.gif" width="100%"/>](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.gif)
-
+![Imaga Title](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.gif){ .image25percent }
 
 
 ## 🌐 Socials:
