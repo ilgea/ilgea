@@ -1,6 +1,8 @@
 ### Hi My Friend, I'm Zübeyir. 👋
 
-<p><a href="https://giphy.com/gifs/matrix-neo-4-BWbdU8nbidzOdHbUg9">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.gif)" width="100"/>
+</div>
 
 
 ## 🌐 Socials:
