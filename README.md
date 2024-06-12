@@ -1,4 +1,4 @@
-### Hi My Friends 👋
+### Hi My Friend, I'm Zübeyir. 👋
 
 
 ## 🌐 Socials:
