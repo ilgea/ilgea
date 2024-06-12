@@ -1,4 +1,4 @@
-## Hi My Friend, I'm Zübeyir. 👋
+## Hi My Friend 👋
 
 ### Welcome to the Mystic World of Code 😎
 
