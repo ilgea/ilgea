@@ -1,7 +1,4 @@
 ### Hi My Friends 👋
-<div align="center">
-<img src="https://github.com/ilgea/ilgea/blob/main/zgif.gif" alt="GitHub Logo" width="300" height="300" />
-</div>
 
 🌱 I am on path in of an amazing cloud adventure.<br></br>
 💬 Ask me about anything :))<br></br>
