@@ -1,7 +1,11 @@
-### Hi My Friend, I'm Zübeyir. 👋
+## Hi My Friend, I'm Zübeyir. 👋
 
+### Welcome to the Mystic World of Code 😎
 
-![Matrix](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.gif)
+<div id="header" align="left">
+<img width=300px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZvZXNwZGo3eG4yMjJxaThpcXEzYXFhNWFvbXoyaW93MHZjOGkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy-downsized.gif" />
+</div>
+
 
 
 ## 🌐 Socials:
